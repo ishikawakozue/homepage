@@ -1,4 +1,5 @@
 # Table of contents
 
-* [Initial page](README.md)
+* [石川梢\(いしかわこずえ\)のページへようこそ！](README.md)
+* [Voiceflowを使ってみよう！](voiceflowwottemiyou.md)
 
